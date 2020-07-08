@@ -47,8 +47,5 @@ public class Enums {
            return compareTo(Citroen);
 
         }
-
-
     }
-
 }
